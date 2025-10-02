@@ -1,4 +1,4 @@
-# First-Simple-C-WPF-Projects
+# First-Simple-C#-WPF-Projects
 
 This repository contains my very first experiments with C# and WPF (Windows Presentation Foundation). These are small practice projects created as part of my learning journey in software development. They are simple and straightforward, focusing on basic concepts like user input, conditional logic, and UI interaction.
 
